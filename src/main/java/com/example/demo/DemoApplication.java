@@ -14,6 +14,7 @@ import org.springframework.stereotype.Component;
 @ComponentScan(basePackages = {"com.example.Service"})
 @ComponentScan(basePackages = {"com.example.Controller"})
 @ComponentScan(basePackages={"com.example.model"})
+@ComponentScan(basePackages = {"com.example.Aspect"})
 //@ComponentScan(basePackages={"com.example.Dao"})
 @MapperScan("com.example.Dao")//与mybatis整合，自动扫描Mapper的包下所有mapper类
 //多包扫描 @MapperScan("com.example.Dao"，"com.example.XXDao"，"org.xxx.xxDao")
