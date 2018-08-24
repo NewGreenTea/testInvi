@@ -1,0 +1,1048 @@
+[2018-08-24 08:42:27] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:42:27] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:42:27] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:42:27] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:42:31] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:44:38] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:44:38] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:44:38] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:44:38] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:44:41] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:49:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:49:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:49:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:49:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:49:16] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:53:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:53:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:53:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:53:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:53:15] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:55:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:55:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:55:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:55:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:55:46] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:57:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:57:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:57:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:57:43] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:57:46] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 08:58:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:58:51] WARN  org.springframework.context.support.AbstractApplicationContext 558 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'shiroFilterFactoryBean' defined in class path resource [com/shiro/configuration/ShiroConfiguration.class]: Unsatisfied dependency expressed through method 'shiroFilterFactoryBean' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.apache.shiro.mgt.SecurityManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+[2018-08-24 08:58:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 08:58:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 08:59:02] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:00:01] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:01] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:01] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:01] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:00:04] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:00:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:00:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:00:55] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:02:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:02:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:02:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:02:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:02:28] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:03:23] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:03:23] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:03:23] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:03:23] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:03:26] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:17:48] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:17:48] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:17:48] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:17:48] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:17:51] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:18:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:18:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:18:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:18:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:18:11] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:20:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:20:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:20:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:20:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:20:14] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:20:27] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+### The error may exist in com/example/Dao/StudentMapper.java (best guess)
+### The error may involve com.example.Dao.StudentMapper.Password-Inline
+### The error occurred while setting parameters
+### SQL: select password from studentCache where name=#name
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:234) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at com.sun.proxy.$Proxy88.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:82) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy92.Password(Unknown Source) ~[?:?]
+	at com.example.Service.ShiroService.StudentImpl.getPassword(StudentImpl.java:47) ~[classes/:?]
+	at com.shiro.Realm.MyRealm.doGetAuthenticationInfo(MyRealm.java:54) ~[classes/:?]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:571) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:20) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$f7442625.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_161]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1379) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44) ~[HikariCP-2.7.9.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java) ~[HikariCP-2.7.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy125.execute(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.5.jar:3.4.5]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	... 95 more
+
+[2018-08-24 09:22:17] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:22:17] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:22:17] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:22:17] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:22:20] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:22:30] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+### The error may exist in com/example/Dao/StudentMapper.java (best guess)
+### The error may involve com.example.Dao.StudentMapper.Password-Inline
+### The error occurred while setting parameters
+### SQL: select password from studentCache where name=#name
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:234) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at com.sun.proxy.$Proxy88.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:82) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy92.Password(Unknown Source) ~[?:?]
+	at com.example.Service.ShiroService.StudentImpl.getPassword(StudentImpl.java:47) ~[classes/:?]
+	at com.shiro.Realm.MyRealm.doGetAuthenticationInfo(MyRealm.java:54) ~[classes/:?]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:571) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:21) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$a5b59c49.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_161]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1379) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44) ~[HikariCP-2.7.9.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java) ~[HikariCP-2.7.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy125.execute(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.5.jar:3.4.5]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	... 95 more
+
+[2018-08-24 09:24:32] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:24:32] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:24:32] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:24:32] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:24:34] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:24:38] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - alan, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+### The error may exist in com/example/Dao/StudentMapper.java (best guess)
+### The error may involve com.example.Dao.StudentMapper.Password-Inline
+### The error occurred while setting parameters
+### SQL: select password from studentCache where name=#name
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:234) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at com.sun.proxy.$Proxy88.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:82) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy92.Password(Unknown Source) ~[?:?]
+	at com.example.Service.ShiroService.StudentImpl.getPassword(StudentImpl.java:47) ~[classes/:?]
+	at com.shiro.Realm.MyRealm.doGetAuthenticationInfo(MyRealm.java:54) ~[classes/:?]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:571) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:21) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$11bccc56.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_161]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1379) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44) ~[HikariCP-2.7.9.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java) ~[HikariCP-2.7.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy127.execute(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.5.jar:3.4.5]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	... 95 more
+
+[2018-08-24 09:28:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:28:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:28:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:28:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:28:44] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:28:48] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - alan, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysql.studentcache' doesn't exist
+### The error may exist in com/example/Dao/StudentMapper.java (best guess)
+### The error may involve com.example.Dao.StudentMapper.Password-Inline
+### The error occurred while setting parameters
+### SQL: select password from studentCache where name=?
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysql.studentcache' doesn't exist
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysql.studentcache' doesn't exist
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:234) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72) ~[spring-jdbc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at com.sun.proxy.$Proxy88.selectOne(Unknown Source) ~[?:?]
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:82) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy92.Password(Unknown Source) ~[?:?]
+	at com.example.Service.ShiroService.StudentImpl.getPassword(StudentImpl.java:47) ~[classes/:?]
+	at com.shiro.Realm.MyRealm.doGetAuthenticationInfo(MyRealm.java:54) ~[classes/:?]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:571) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:21) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$11bccc56.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysql.studentcache' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_161]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_161]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1379) ~[mysql-connector-java-5.1.21.jar:?]
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44) ~[HikariCP-2.7.9.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java) ~[HikariCP-2.7.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59) ~[mybatis-3.4.5.jar:3.4.5]
+	at com.sun.proxy.$Proxy127.execute(Unknown Source) ~[?:?]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141) ~[mybatis-3.4.5.jar:3.4.5]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77) ~[mybatis-3.4.5.jar:3.4.5]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433) ~[mybatis-spring-1.3.1.jar:1.3.1]
+	... 95 more
+
+[2018-08-24 09:29:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:29:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:29:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:29:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:30:00] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:31:58] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - ui, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). java.lang.NullPointerException: null
+	at org.apache.shiro.authc.credential.SimpleCredentialsMatcher.equals(SimpleCredentialsMatcher.java:98) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.credential.SimpleCredentialsMatcher.doCredentialsMatch(SimpleCredentialsMatcher.java:129) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.realm.AuthenticatingRealm.assertCredentialsMatch(AuthenticatingRealm.java:600) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:581) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:21) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$46e1b699.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+
+[2018-08-24 09:39:22] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:39:22] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:39:22] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:39:22] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:39:24] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:41:20] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:41:20] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:41:20] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:41:20] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:41:22] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:46:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:46:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:46:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:46:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:46:43] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:50:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:50:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:50:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:50:12] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:50:14] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:53:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:53:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:53:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:53:41] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:53:43] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 09:59:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:59:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:59:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 09:59:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 09:59:36] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:00:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:00:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:00:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:00:57] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:00:59] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:32:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:32:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:32:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:32:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:32:15] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:32:37] WARN  org.apache.shiro.authc.AbstractAuthenticator 216 authenticate - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException). java.lang.IllegalArgumentException: principal argument cannot be null.
+	at org.apache.shiro.subject.SimplePrincipalCollection.add(SimplePrincipalCollection.java:104) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.SimplePrincipalCollection.<init>(SimplePrincipalCollection.java:59) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.SimpleAuthenticationInfo.<init>(SimpleAuthenticationInfo.java:74) ~[shiro-core-1.4.0.jar:1.4.0]
+	at com.shiro.Realm.MyRealm.doGetAuthenticationInfo(MyRealm.java:63) ~[classes/:?]
+	at org.apache.shiro.realm.AuthenticatingRealm.getAuthenticationInfo(AuthenticatingRealm.java:571) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doSingleRealmAuthentication(ModularRealmAuthenticator.java:180) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.pam.ModularRealmAuthenticator.doAuthenticate(ModularRealmAuthenticator.java:267) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.authc.AbstractAuthenticator.authenticate(AbstractAuthenticator.java:198) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.AuthenticatingSecurityManager.authenticate(AuthenticatingSecurityManager.java:106) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.mgt.DefaultSecurityManager.login(DefaultSecurityManager.java:274) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.login(DelegatingSubject.java:260) [shiro-core-1.4.0.jar:1.4.0]
+	at com.example.Controller.shiroController.LoginController.login(LoginController.java:21) [classes/:?]
+	at com.example.Controller.shiroController.LoginController$$FastClassBySpringCGLIB$$6df232a3.invoke(<generated>) [classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688) [spring-aop-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at com.example.Controller.shiroController.LoginController$$EnhancerBySpringCGLIB$$bea2d2a0.login(<generated>) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:877) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.32.jar:8.5.32]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+
+[2018-08-24 10:33:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:33:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:33:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:33:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:33:15] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:35:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:35:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:35:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:35:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:35:58] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:36:46] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:36:46] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:36:46] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:36:46] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:36:48] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:40:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:40:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:40:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:40:25] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:40:27] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:41:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:41:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:41:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:41:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:41:48] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:42:29] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:42:29] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:42:29] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:42:29] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:42:32] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:44:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:44:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:44:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:44:08] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:44:11] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:47:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:47:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:47:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:47:33] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:47:35] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:50:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:50:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:50:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:50:59] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:51:01] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:52:31] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:52:31] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:52:31] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:52:31] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:52:33] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:54:15] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:54:15] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:54:15] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:54:15] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:54:18] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:55:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:55:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:55:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:55:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:55:48] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:56:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:56:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:56:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:56:56] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:56:59] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 10:58:11] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:58:11] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:58:11] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 10:58:11] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 10:58:14] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 11:18:47] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 11:18:47] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 11:18:47] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 11:18:47] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 11:18:50] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 14:13:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 14:13:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 14:13:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 14:13:52] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 14:13:55] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:03:49] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:03:49] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:03:49] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:03:49] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:03:51] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:04:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:04:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:04:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:04:50] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:04:53] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:05:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:05:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:05:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:05:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:05:39] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:07:56] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver 255 handleHttpRequestMethodNotSupported - Request method 'GET' not supported
+[2018-08-24 15:09:35] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver 255 handleHttpRequestMethodNotSupported - Request method 'GET' not supported
+[2018-08-24 15:13:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:13:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:13:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:13:45] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:13:48] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:14:30] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver 255 handleHttpRequestMethodNotSupported - Request method 'GET' not supported
+[2018-08-24 15:18:34] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:18:34] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:18:34] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:18:34] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:18:37] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:36:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:36:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:36:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:36:37] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:36:40] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:44:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:44:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:44:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:44:13] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:44:16] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:47:35] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:47:35] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:47:35] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:47:35] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:47:37] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 15:52:02] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:52:02] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:52:02] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 15:52:02] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 15:52:05] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 16:12:28] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:12:28] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:12:28] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:12:28] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 16:12:31] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
+[2018-08-24 16:13:06] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'dicMapper' and 'com.example.Dao.dicMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:13:06] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'roleMapper' and 'com.example.Dao.RoleMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:13:06] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 239 checkCandidate - Skipping MapperFactoryBean with name 'studentMapper' and 'com.example.Dao.StudentMapper' mapperInterface. Bean already defined with the same name!
+[2018-08-24 16:13:06] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com.example.Dao]' package. Please check your configuration.
+[2018-08-24 16:13:09] WARN  net.sf.ehcache.config.CacheConfiguration 1795 warnMaxEntriesLocalHeap - Cache: shiCache has a maxElementsInMemory of 0. This might lead to performance degradation or OutOfMemoryError at Terracotta client.From Ehcache 2.0 onwards this has been changed to mean a store with no capacity limit. Set it to 1 if you want no elements cached in memory
