@@ -2,6 +2,7 @@ package com.example.model;
 
 //jehc_qu_18数据库的tabl_dic实体类
 public class tabl_dic {
+
     private String table_name;
 
     public String getTable_name() {

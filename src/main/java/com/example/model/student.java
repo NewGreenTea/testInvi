@@ -1,17 +1,23 @@
 package com.example.model;
 
 
-//测试切换数据源的测试实体类
-public class student {
-    private int id;
-    private String name;
-    private int age;
+import com.annotation.Invisible;
+import com.constant.Constraint;
 
-    public int getId() {
+//测试切换数据源的测试实体类
+//测试权限登录实体类，新增密码field -18/8/23
+public class student {
+    @Invisible(primaryKey = Constraint.PRIMARY_KEY)
+    private Integer id;
+    private String name;
+    private Integer age;
+    private String roleName;
+
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -23,11 +29,19 @@ public class student {
         this.name = name;
     }
 
-    public int getAge() {
+    public Integer getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(Integer age) {
         this.age = age;
+    }
+
+    public String getRoleName() {
+        return roleName;
+    }
+
+    public void setRoleName(String roleName) {
+        this.roleName = roleName;
     }
 }
